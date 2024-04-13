@@ -17,10 +17,10 @@
     }
   },
   "require": {
-    "symfony/http-foundation": "v7.0.6",
-    "league/flysystem": "3.3.0",
-    "league/flysystem-ziparchive": "3.3.0",
-    "league/flysystem-read-only": "3.3.0"
+    "symfony/http-foundation": "^v7",
+    "league/flysystem": "^3",
+    "league/flysystem-ziparchive": "^3",
+    "league/flysystem-read-only": "^3"
   },
   "minimum-stability": "stable"
 }
